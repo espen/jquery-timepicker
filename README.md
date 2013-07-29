@@ -144,7 +144,7 @@ Unbind an existing timepicker element.
 	```
 
 - **setTime**
-Set the time using a Javascript Date object.
+Set the time using a Javascript Date object or a string.
 
 	```javascript
 	$('#setTimeExample').timepicker('setTime', new Date());
